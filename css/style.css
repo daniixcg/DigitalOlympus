@@ -1,6 +1,20 @@
-#logo{
-    width: 100px;
-    height: 100px;
-    margin-left: 300px;
-    margin-right: 300px;
+#logo {
+    height: 100px; 
+    margin-left: -220px;
+}
+
+
+.navbar-nav .nav-link {
+    line-height: 60px; 
+}
+
+.navbar {
+    padding: 0; 
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: white; 
+    display: flex;
+    align-items: center;
 }
