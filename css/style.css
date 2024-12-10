@@ -18,6 +18,13 @@
     display: flex;
     align-items: center;
 }
+
 #redes{
     height: 30px;
+}
+
+.carousel-image {
+    object-fit: cover; /* Esto asegura que la imagen cubra el contenedor sin distorsionarse */
+    height: 600px; /* Puedes ajustar la altura según tus necesidades */
+    width: 100%; /* Esto hace que las imágenes se ajusten al ancho del contenedor */
 }
