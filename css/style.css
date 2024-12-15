@@ -1,3 +1,8 @@
+.kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
 #logo {
     height: 100px; 
     margin-left: -220px;
@@ -23,8 +28,12 @@
     height: 30px;
 }
 
-.carousel-image {
+.carousel-item {
     object-fit: cover; /* Esto asegura que la imagen cubra el contenedor sin distorsionarse */
-    height: 600px; /* Puedes ajustar la altura según tus necesidades */
+    height: 800px; /* Puedes ajustar la altura según tus necesidades */
     width: 100%; /* Esto hace que las imágenes se ajusten al ancho del contenedor */
 }
+
+
+
+
