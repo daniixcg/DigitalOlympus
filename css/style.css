@@ -3,6 +3,25 @@
     font-weight: 400;
     font-style: normal;
 }
+#caixacontacte{
+  display: grid;
+  place-items: center;
+  margin-top: 1%;
+}
+#mitjanscontacte{
+  width: 50%;
+  align-items: start;
+  margin-top: 2%;
+}
+#caixaformulari{
+  width: 50%;
+  align-items: center;
+  margin: 2%;
+}
+#caixamapes{
+  align-items: center;
+  margin: 2%;
+}
 #logo {
     height: 100px; 
     margin-left: -220px;
@@ -34,7 +53,6 @@
     width: 100%; /* Esto hace que las imágenes se ajusten al ancho del contenedor */
 }
 
-/* From Uiverse.io by gharsh11032000 */ 
 .card {
     position: relative;
     display: flex;
@@ -118,6 +136,7 @@
       transform: rotate(360deg);
     }
   }
-  
+
+
 
 
