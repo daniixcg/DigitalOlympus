@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Noticias de Videojuegos - The Digital Olympus</title>
+        <link>https://www.tusitio.com</link>
+        <description>Últimas noticias y lanzamientos sobre videojuegos y esports.</description>
+        <atom:link href="https://www.tusitio.com/index.xml" rel="self" type="application/rss+xml" />
 
-
-
+        <item>
+            <title>Jornada 1 de la LEC: horarios, dónde ver y cuándo juega Movistar KOI hoy</title>
+            <link>https://www.marca.com/videojuegos/esports/2025/01/16/67891f95268e3e69028b459c.html</link>
+            <description>Este sábado arranca la máxima competición europea con la primera jornada.</description>
+            <pubDate>Sat, 18 Jan 2025 12:23:00 +0100</pubDate>
+            <guid>https://www.marca.com/videojuegos/esports/2025/01/16/67891f95268e3e69028b459c.html</guid>
+        </item>
+        
+        <item>
+            <title>Próximos lanzamientos en todo el año 2025</title>
+            <link>https://vandal.elespanol.com/lanzamientos/0/videojuegos/13/2025</link>
+            <description>¿Quieres saber cuáles son los próximos lanzamientos de juegos en 2025? Aquí encontrarás el calendario con las fechas de lanzamiento.</description>
+            <pubDate>Thu, 16 Jan 2025 14:53:00 +0100</pubDate>
+            <guid>https://vandal.elespanol.com/lanzamientos/0/videojuegos/13/2025</guid>
+        </item>
+        
+        <item>
+            <title>Switch 2 aparenta ser más de lo mismo. Pero esa es exactamente la estrategia que necesita Nintendo ahora mismo</title>
+            <link>https://www.xataka.com/videojuegos/switch-2-aparenta-ser-esa-exactamente-estrategia-que-necesita-nintendo-ahora</link>
+            <description>Las diferencias de Switch 2 con su predecesora son mínimas.</description>
+            <pubDate>Fri, 17 Jan 2025 19:53:00 +0100</pubDate>
+            <guid>https://www.xataka.com/videojuegos/switch-2-aparenta-ser-esa-exactamente-estrategia-que-necesita-nintendo-ahora</guid>
+        </item>
+    </channel>
 </rss>
+
